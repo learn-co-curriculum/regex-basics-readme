@@ -25,7 +25,7 @@ We've set this up in [Rubular for you here](http://rubular.com/r/s2jizA9W9V). Yo
 ## Writing Regular Expressions
 
 In Ruby, regular expressions are generally written between forward slashes:
-`/your regex/`. This is the literal notation of creating a regular expression object using the following syntax: `Regexp::new('your regex')`. In Rubular, you can see that these slashes have already been written for you.
+`/your regex/`. This is the literal method of creating a regular expression object using the following syntax: `Regexp::new('your regex')`. In Rubular, you can see that these slashes have already been written for you.
 
 ### Simple Text Matching
 
